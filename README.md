@@ -64,4 +64,13 @@
 
 ## 📄 License
 
+
+<img width="1919" height="1199" alt="LLM used case2" src="https://github.com/user-attachments/assets/95480a51-0aa4-4fc3-832b-d6bb7d058167" />
+
+
+<img width="1908" height="1193" alt="LLM used case" src="https://github.com/user-attachments/assets/b9ad54fa-0ec0-4605-8107-20f89328ef40" />
+
+
+
+
 This project is licensed under the MIT License.
